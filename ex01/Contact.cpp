@@ -6,7 +6,7 @@
 /*   By: kingstephane <kingstephane@student.42.f    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/12/26 16:41:40 by kingstephan       #+#    #+#             */
-/*   Updated: 2025/12/26 18:26:19 by kingstephan      ###   ########.fr       */
+/*   Updated: 2025/12/27 05:01:15 by kingstephan      ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -60,7 +60,4 @@ void	Contact::displayContact(){
 	std::cout << "Darkest secret " << darkestSecret;
 };
 
-Contact::~Contact()
-{
-	
-}
+Contact::~Contact(){};
