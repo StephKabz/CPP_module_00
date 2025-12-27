@@ -1,12 +1,12 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   contact.cpp                                        :+:      :+:    :+:   */
+/*   Contact.cpp                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: kingstephane <kingstephane@student.42.f    +#+  +:+       +#+        */
+/*   By: stkabang <stkabang@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/12/26 16:41:40 by kingstephan       #+#    #+#             */
-/*   Updated: 2025/12/27 05:01:15 by kingstephan      ###   ########.fr       */
+/*   Updated: 2025/12/27 20:16:17 by stkabang         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -57,7 +57,7 @@ void	Contact::displayContact(){
 	std::cout << "Last name : " << lastName << std::endl;
 	std::cout << "Nickname : " << nickname << std::endl;
 	std::cout << "Phone number : " << phoneNumber << std::endl;
-	std::cout << "Darkest secret " << darkestSecret;
+	std::cout << "Darkest secret : " << darkestSecret << std::endl;
 };
 
 Contact::~Contact(){};

@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   PhoneBook.hpp                                      :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: kingstephane <kingstephane@student.42.f    +#+  +:+       +#+        */
+/*   By: stkabang <stkabang@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/12/26 14:43:56 by kingstephan       #+#    #+#             */
-/*   Updated: 2025/12/27 04:22:27 by kingstephan      ###   ########.fr       */
+/*   Updated: 2025/12/27 20:11:33 by stkabang         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,6 +14,7 @@
 #define PHONEBOOK_HPP
 #include <iostream>
 #include <iomanip>
+#include <cstdlib>
 #include "Contact.hpp"
 
 
